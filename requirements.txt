@@ -20,3 +20,4 @@ django-cryptography==1.0
 djangorestframework==3.12.1
 django-rest-swagger
 social-auth-app-django
+python-decouple 
