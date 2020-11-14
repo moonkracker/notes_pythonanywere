@@ -6,7 +6,6 @@ html5lib==1.0.1
 Pillow==6.2.1
 PyPDF2
 Pygments==2.3.1
-python-decouple==3.2
 pytz==2019.3
 reportlab==3.5.32
 six==1.13.0
